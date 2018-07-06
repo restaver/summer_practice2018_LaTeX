@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.7.6)  6 JUL 2018 15:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.7.6)  6 JUL 2018 15:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -692,25 +692,34 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 20.
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./latex1.aux) ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 30.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 30.
+ [2] [3] [4] [5]
+[6] [7] (./latex1.aux) ) 
 Here is how much of TeX's memory you used:
- 2287 strings out of 492990
- 27317 string characters out of 6135006
- 94192 words of memory out of 5000000
- 5847 multiletter control sequences out of 15000+600000
- 10715 words of font info for 24 fonts, out of 8000000 for 9000
+ 2313 strings out of 492990
+ 27746 string characters out of 6135006
+ 101192 words of memory out of 5000000
+ 5871 multiletter control sequences out of 15000+600000
+ 10673 words of font info for 24 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 25i,5n,23p,1160b,251s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/shar
-e/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texmf/fonts/type1
-/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfb
-x1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx2488.pfb></usr/shar
-e/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/
-public/cm-super/sfrm1095.pfb>
-Output written on latex1.pdf (1 page, 66272 bytes).
+ 25i,5n,23p,3052b,251s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a
+.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
+/usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fon
+ts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-s
+uper/sfbx2488.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></
+usr/share/texmf/fonts/type1/public/cm-super/sfrm1095.pfb>
+Output written on latex1.pdf (7 pages, 115807 bytes).
 PDF statistics:
- 29 PDF objects out of 1000 (max. 8388607)
- 20 compressed objects within 1 object stream
+ 53 PDF objects out of 1000 (max. 8388607)
+ 37 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
